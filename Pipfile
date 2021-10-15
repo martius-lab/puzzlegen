@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+gym = "==0.18.0"
+numpy = "==1.19.5"
+networkx = "==2.5"
+sklearn = "==0.0"
+imageio = "==2.9.0"
+imageio-ffmpeg = "==0.4.3"
+opencv-python = "==4.5.1.48"
+
+[requires]
+python_version = "3.6"
